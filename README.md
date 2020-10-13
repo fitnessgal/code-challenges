@@ -1,7 +1,7 @@
 # code-challenges
-<h1>Second part of VWC getting into CS</h1>
+<h1>Second part of VWC - Getting into CS</h1>
 
-- 🔭 Currently taking Wes Bos' beginner javascript course along with VHC.
+- 🔭 Currently taking Wes Bos' beginner javascript course along with VWC.
 - 🌱 Recently moved to Hartsville, TN to have some land and be on the Cumberland River. 
 -    Going Forward - I'm enjoying the coding world and the vast opportunities it offers.
 - 👯 Some of my fav things are doing CrossFit and investing in stocks and options. 
