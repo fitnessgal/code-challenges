@@ -7,4 +7,4 @@
 - 👯 Some of my fav things are doing CrossFit and investing in stocks and options. 
 
 - 📫 The best way to reach me is through [my LinkedIn profile.](https://www.linkedin.com/in/cindybaldhoff/) 
-- ⚡ Fun fact: My first concert was seeing Elvis Presley and my aunt paid a whopping $12 apiece for our floor seats! 
+- ⚡ Fun fact: My first concert was seeing Elvis Presley and my aunt paid a whopping $12 per ticket for our floor seats! 
